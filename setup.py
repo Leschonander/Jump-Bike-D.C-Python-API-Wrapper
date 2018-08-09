@@ -8,5 +8,6 @@ setup(name = "Jump Bike DC API Wrapper",
     install_requires=['requests'],
     version = '0.1',
     license = 'MIT',
-    description = "Python Wrapper for Jump Bike D.C's open API." 
+    description = "Python Wrapper for Jump Bike D.C's open API.",
+    long_description = open('README.md').read()
 )

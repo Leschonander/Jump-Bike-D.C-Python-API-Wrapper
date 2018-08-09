@@ -4,7 +4,7 @@
 
 A wrapper for Jump Bike D.C's open [API](https://dc.jumpmobility.com/opendata) made in python. Meant to make it easier to make requests to the library.
 
-For now no `PyPi` package but working on creating one.
+Do `pip install pip install Jump-Bike-DC-API-Wrapper` to install the package. 
 
 Package depends on Requests and JSON, depends on no other packages.
 
