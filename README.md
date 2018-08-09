@@ -11,7 +11,7 @@ Package depends on Requests and JSON, depends on no other packages.
 To work with here is an example.
 
 ```python
-from mainClass import JumpBikeAPI, base_url
+import Jump-Bike-DC-API-Wrapper
 
 API1 = JumpBikeAPI()
 print(API1.FreeBikeStatus())
